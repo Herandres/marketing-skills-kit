@@ -1,6 +1,6 @@
-# Guía del Kit de Skills MKT — Triario
+# Guía del Kit de Skills MKT
 
-Kit de 20 skills de inteligencia de marketing adaptadas para el equipo de agencia de Triario.
+Kit de 20 skills de inteligencia de marketing para equipos de agencia.
 Cada skill es un archivo de instrucciones que se carga en Claude.ai como una habilidad especializada.
 
 ---
